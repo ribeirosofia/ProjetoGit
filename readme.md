@@ -1,1 +1,1 @@
-Oie! =) A intenção deste projeto é ensinar o uso do Git.
+Oiê! Criei este projeto como uma forma de aprendizado dos passos básicos de Git e Github. =)
